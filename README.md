@@ -1,6 +1,6 @@
 # MyTelkomsel Android Homepage Clone
 
-Beberapa bulan lalu saya mencoba belajar membuat aplikasi android menggunakan react native karena sebelumnya saya selalu menggunakan java native, kasus yang saya ambil adalah saya membuat clone dari UI aplikasi mytelkomsel, Tapi sayangnya belum selesai saya kerjaan semua halaman mytelkomsel sudah berganti tampilan ;(
+Beberapa bulan lalu saya mencoba belajar membuat aplikasi android menggunakan react native karena sebelumnya saya selalu menggunakan java native, kasus yang saya ambil adalah saya membuat clone dari UI aplikasi mytelkomsel, Tapi sayangnya belum selesai semua saya develop halaman mytelkomsel sudah berganti tampilan ;(
 
 ## Prerequisites
 
